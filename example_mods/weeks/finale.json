@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"absolute-fucking-hell",
+			"icon-velma",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"velmagod",
+		"bf",
+		"gf"
+	],
+	"storyName": "be prepared...",
+	"weekName": "idk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": false
+}
